@@ -1,2 +1,4 @@
 # Multilingual-Research-
-Jiangxi Province ChengZhu Environmental Engineering Company Ltd was incorporated in April 2015 in Ganzhou China, with Registration NO.91360700343188092B. Our company is a registered membership in Crossref database (DOI prefix 10.58473). English words of ‘ChengZhu Science’ and 'New Kinergy INTE' is the registered trademark of our company.
+This repository is used to deposit multilingual research outputs, translated from journal articles published by Jiangxi Province ChengZhu Environmental Engineering Company Ltd. 
+![ChengZhu Science_画板 1](https://github.com/user-attachments/assets/a7a07b80-1196-4dd8-ac87-4f8105897a0c)
+
